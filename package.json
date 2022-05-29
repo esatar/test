@@ -1,0 +1,26 @@
+{
+  "name": "esatar",
+  "version": "1.0.0",
+  "description": "This is a trial project.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "esa": "echo \"My name is esatar\"",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "trial",
+    "package"
+  ],
+  "author": "Esatar",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^6.3.4",
+    "nodemailer": "^6.7.5",
+    "simple-is": "^0.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/esatar/test.git"
+  }
+}
